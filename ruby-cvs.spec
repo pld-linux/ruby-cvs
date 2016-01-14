@@ -5,7 +5,7 @@ Version:	0.0.0
 Release:	0.1
 License:	?
 Source0:	https://github.com/akr/ruby-cvs/archive/c760e34/%{name}-%{version}.tar.gz
-# Source0-md5:	b4e3188916e85f84452bb811e311d8f1
+# Source0-md5:	7705179c54f7b38f5440f928151ce61c
 Group:		Development/Languages
 URL:		https://github.com/akr/ruby-cvs
 BuildRequires:	rpm-rubyprov
